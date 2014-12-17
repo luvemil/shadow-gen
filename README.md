@@ -3,7 +3,7 @@ shadow-gen
 
 Generates hashes for /etc/shadow
 
-#Instruction
+#Instructions
 
 Compile with `gcc mkpass.c -o mkpass -lcrypt`.
 
